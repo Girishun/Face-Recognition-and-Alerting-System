@@ -1,9 +1,4 @@
 # Face Recognition and Alerting System
-## Team Members:
-Girishun Kumar R  - 113119UG03027
-
-Kishore M         - 113119UG03050
-
 
 ## Objective
 **The major objectives of the project are as follows:**
